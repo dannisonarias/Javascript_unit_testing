@@ -16,4 +16,4 @@ const caesar = (string, shift) => {
   return result;
 };
 
-module.exports = caesar;
+export default caesar;
