@@ -2,6 +2,10 @@
 
 > This project was created to test several different functions using TDD with Jest.
 
+# Screenshot
+
+![sample](capture.png)
+
 ## Built With
 
 - JavaScript
